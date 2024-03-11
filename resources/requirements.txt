@@ -1,0 +1,9 @@
+h5py
+ipykernel
+jupyter
+mat73
+matplotlib
+numpy
+pandas
+scipy
+seaborn
